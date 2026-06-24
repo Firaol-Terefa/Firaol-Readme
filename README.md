@@ -29,18 +29,18 @@ I specialize in low-level systems programming, software architecture, full-stack
 
 ### 📂 Featured Experience & Projects
 
-#### 🛡️ [INSA Summer Camp — Cybersecurity Project Member-->more...](https://github.com/Firaol-Terefa/cyber-security-group39)
+#### 🛡️ [INSA Summer Camp — Cybersecurity Project Member](https://github.com/Firaol-Terefa/cyber-security-group39)
 *Information Network Security Administration (INSA) | July 2025 - August 2025*
 - Collaborated in a team during the INSA Summer Camp to design and build **DeepSweep**, an automated multi-vulnerability web scanner in Python.
 - Programmed core vulnerability detection logic for SQLi, XSS, and remote Command Injection.
 - Designed automated port scanning and HTTP header analysis routines to identify server misconfigurations.
 
-#### 📝 [ThinkBoard->more...](https://github.com/Firaol-Terefa/mern-thinkboard))
+#### 📝 [ThinkBoard](https://github.com/Firaol-Terefa/mern-thinkboard)
 *A modern full-stack MERN note-taking application designed for high performance and security.*
 - Developed using React 19, Express, Node.js, MongoDB, Tailwind CSS, and DaisyUI.
 - Integrated **Upstash Redis** sliding-window rate limiting (10 requests per 20 seconds) to protect API endpoints from resource abuse.
 
-#### 🤖 [Telegram Chat Automation->more...](https://github.com/Firaol-devsec-labs/vantavail-AI-chat-automation)
+#### 🤖 [Telegram Chat Automation](https://github.com/Firaol-devsec-labs/vantavail-AI-chat-automation)
 *Python-based automation app connecting to Telegram Bot APIs.*
 - Programmed asynchronous event-handling loops in Python to process concurrent webhook events with minimal latency.
 
