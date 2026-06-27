@@ -37,7 +37,7 @@ I specialize in low-level systems programming, software architecture, full-stack
 
 #### 📝 [ThinkBoard](https://github.com/Firaol-Terefa/mern-thinkboard)
 *A modern full-stack MERN note-taking application designed for high performance and security.*
-- Developed using React 19, Express, Node.js, MongoDB, Tailwind CSS, and DaisyUI.
+- Developed using React, Express, Node.js, MongoDB, Tailwind CSS, and DaisyUI.
 - Integrated **Upstash Redis** sliding-window rate limiting (10 requests per 20 seconds) to protect API endpoints from resource abuse.
 
 #### 🤖 [Telegram Chat Automation](https://github.com/Firaol-devsec-labs/vantavail-AI-chat-automation)
