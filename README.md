@@ -30,7 +30,8 @@ I specialize in low-level systems programming, software architecture, full-stack
 ### 📂 Featured Experience & Projects
 
 #### 🛡️ [INSA Summer Camp — Cybersecurity Project Member](https://github.com/Firaol-Terefa/cyber-security-group39)
-*Information Network Security Administration (INSA) | July 2025 - August 2025*
+*Information Network Security Administration (INSA) | June 29 2025 - Aug 2025*
+- Duration : Three months summercamp program at Addis Ababa Science and Tecnology University (AASTU) (1 month at AASTU, 2 months at home with online mentor)
 - Collaborated in a team during the INSA Summer Camp to design and build **DeepSweep**, an automated multi-vulnerability web scanner in Python.
 - Programmed core vulnerability detection logic for SQLi, XSS, and remote Command Injection.
 - Designed automated port scanning and HTTP header analysis routines to identify server misconfigurations.
