@@ -19,7 +19,7 @@ I specialize in low-level systems programming, software architecture, full-stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Python, PHP , JavaScript (ES6+), HTML5, CSS3 |
+| **Languages** | C++, Python, PHP , JavaScript, HTML5, CSS3 |
 | **Backend & Databases** | Node.js, Express.js, MongoDB (Mongoose), MySQL, Redis (Upstash) |
 | **Frontend Frameworks** | React, Vite, Tailwind CSS, DaisyUI |
 | **Tools & Platforms** | Git & GitHub, Linux, Telegram API, Postman |
