@@ -22,7 +22,7 @@ I specialize in low-level systems programming, software architecture, full-stack
 | **Languages** | C++, Python, PHP , JavaScript (ES6+), HTML5, CSS3 |
 | **Backend & Databases** | Node.js, Express.js, MongoDB (Mongoose), MySQL, Redis (Upstash) |
 | **Frontend Frameworks** | React, Vite, Tailwind CSS, DaisyUI |
-| **Tools & Platforms** | Git & GitHub, Linux, Bash Scripting, Telegram API, Postman |
+| **Tools & Platforms** | Git & GitHub, Linux, Telegram API, Postman |
 | **Specializing Skills** | Ethical Hacking (OSINT, Recon), Systems Design, Object-Oriented Analysis (OOP) |
 
 ---
