@@ -1,6 +1,6 @@
 # Hi there, I'm Firaol Terefa! 👋
 
-Associate Software Developer & Cybersecurity Researcher based in Ethiopia. I am currently pursuing my degree in **Computer Science and Engineering** at **Adama Science and Technology University (ASTU)**.
+I'm Software Developer & Cybersecurity Researcher based in Ethiopia. I am currently pursuing my degree in **Computer Science and Engineering** at **Adama Science and Technology University (ASTU)**.
 
 I specialize in low-level systems programming, software architecture, full-stack web development, and cybersecurity. I love building highly optimized systems, secure web architectures, and automated solutions.
 
